@@ -1,0 +1,324 @@
+.nav1{
+  background-color: rgb(34,34,34);
+  color: white;
+  padding: 15px;
+  font-family:'Poppins-Regular',sans-serif;
+  color: rgb(141,141,141);
+}
+
+.parag{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+.nav1-list{
+  display: flex;
+  gap: 50px;
+}
+
+.coza{
+  cursor: pointer;
+}
+
+.f1{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.f1:hover{
+  color: purple;
+}
+
+.f2{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.f2:hover{
+  color: purple;
+}
+
+.f3{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.f3:hover{
+  color: purple;
+}
+
+.f4{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.f4:hover{
+  color: purple;
+}
+
+.nav2{
+  margin-top: 30px;
+  display: flex;
+  margin-left: 315px;
+}
+
+.second{
+  display: flex;
+}
+
+.nav2-list{
+  display: flex;
+  gap: 30px;
+  margin-left: 30px;
+  font-family:'Poppins-Medium',sans-serif;
+}
+
+.r1{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.r1:hover{
+  color: purple;
+}
+
+.r2{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.r2:hover{
+  color: purple;
+}
+
+.r3{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.r3:hover{
+  color: purple;
+}
+
+.r4{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.r4:hover{
+  color: purple;
+}
+
+.r5{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.r5:hover{
+  color: purple;
+}
+
+.r6{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.r6:hover{
+  color: purple;
+}
+
+.icons{
+  margin-left: 600px;
+  font-size: 23px;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  bottom: 5px;
+}
+
+.q1{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.q1:hover{
+  color: purple;
+}
+
+.q2{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.q2:hover{
+  color: purple;
+}
+
+.q3{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.q3:hover{
+  color: purple;
+}
+
+.first-page{
+background-image: url("https://preview.colorlib.com/theme/cozastore/images/slide-03.jpg.webp");
+width: 100%;
+height: 100vh;
+}
+
+.side-1{
+  margin-left: 300px;
+  position: relative;
+  top: 330px;
+  font-family:'Poppins-Medium',sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.btn-1{
+  width: 130px;
+  padding: 15px;
+  border-radius: 13%;
+  background-color: rgb(113,127,224);
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-1:hover{
+  background-color: rgba(0, 0, 0, 0.884);
+}
+
+.cards{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  font-size: 20px;
+  font-family:'Poppins-Medium',sans-serif;
+  cursor: pointer;
+}
+
+.card1{
+background-image: url("https://preview.colorlib.com/theme/cozastore/images/banner-01.jpg.webp");
+width: 500px;
+height: 400px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.card2{
+background-image: url("https://preview.colorlib.com/theme/cozastore/images/banner-02.jpg.webp");
+width: 500px;
+height: 400px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.card3{
+background-image: url("https://preview.colorlib.com/theme/cozastore/images/banner-03.jpg.webp");
+width: 500px;
+height: 400px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.third-page{
+  margin-top: 40px;
+}
+
+.product-1{
+  margin-left:340px;
+  font-family:'Poppins-Medium',sans-serif;
+}
+
+.side2{
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+  font-family:'Poppins-Medium',sans-serif;
+}
+
+.nav3-list{
+  display: flex;
+  gap: 30px;
+}
+
+.btns{
+  display: flex;
+  gap: 30px;
+}
+
+.a1:hover{
+  color: purple;
+}
+
+.a2{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.a2:hover{
+  color: purple;
+}
+
+.a3{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.a3:hover{
+  color: purple;
+}
+
+.a4{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.a4:hover{
+  color: purple;
+}
+
+.a5{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.a5:hover{
+  color: purple;
+}
+
+.a6{
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.a6:hover{
+  color: purple;
+}
+
+.btn-2{
+  border: none;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.btn-2 :hover{
+  color: rgb(113,127,224);
+}
+.btn-3{
+  border: none;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.btn-3 :hover{
+  color: rgb(113,127,224);
+}
